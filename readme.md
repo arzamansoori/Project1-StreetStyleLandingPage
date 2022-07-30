@@ -9,4 +9,4 @@ Hi, I am *Arza Mansoori*.<br>
 ***Time taken :***<br>
 *I took almost an entire day to finish this project.*
 
-[*Project1-LiveLink (Netlify)*]()
+[*Project1-LiveLink (Netlify)*](https://project1-streetstyle.netlify.app/ "Project 1")
