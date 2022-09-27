@@ -1,7 +1,7 @@
 ![Badge1](https://img.shields.io/badge/Project1-StreetStyleLandingPage-ff69b4)
 
 Hi, I am *Arza Mansoori*.<br>
-*This project is a part of ***Full Stack Javascript*** course by iNeuron.*
+*This project is based on pure HTML and CSS. Also, a part of my learnings that I am doing. Not a responsive one.*
 
 ***Project Takeaway :***<br>
 *In this, I have learned about the position properties.*
